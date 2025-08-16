@@ -95,7 +95,6 @@
 {"key":"155","name":"155┃采集","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/at/xml/","searchable":1,"filterable":1,"categories":["视频一区","视频二区","亚洲有码","亚洲无码","制服诱惑","强奸乱伦","巨乳美乳","AI换脸","中文字幕","角色扮演","日本女优","成人动漫","欧美激情","三级片","网曝视频","AV解说","国产传媒","主播直播","国产精品","国产探花","国产三区","国产乱伦","国产丝袜","国产SM","国产人妻","自拍偷拍","同性恋"]},
 {"key":"lsb","name":"lsb┃采集","type":1,"api":"https://subocj.com/api.php/provide/vod/at/xml/","searchable":1,"filterable":1,"categories":["电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫","电影","大陆剧","台湾剧","韩剧","美剧","港澳剧","日剧","泰剧","伦理片","体育赛事","中国动漫","日本动漫","欧美动漫","短剧"]},
 {"key":"lsb","name":"lsb┃采集","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod/at/xml/","searchable":1,"filterable":1,"categories":["电影","电视剧","综艺动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","动漫","电影","台湾剧","韩剧","泰剧","记录片","伦理片","短剧","奇幻片","犯罪片"]},
-{"key":"haiwaikan","name":"海外看┃采集","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1
     
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
